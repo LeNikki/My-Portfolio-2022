@@ -1,0 +1,26 @@
+@media  screen and (max-width:900px){
+/*SECTION 1*/
+.section-1{
+   height: auto;
+   display: grid;
+   grid-template-rows: 1fr 1fr;
+}
+/*SECTION 2*/
+
+.section-2{
+    margin-top: 5em;
+    grid-template-columns: 2fr;
+    grid-template-rows: repeat(2, auto);
+}
+
+/*PROECTS*/
+.projects{
+    padding: 0 0;
+    text-align: center;
+}
+
+.project-container{
+    display: block;
+}
+}
+    

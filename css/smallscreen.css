@@ -1,0 +1,39 @@
+@media screen and (max-width: 600px){
+   
+    /*Section 1*/
+
+    .section-1{
+        row-gap: 2em;
+    }
+    /*SECTION 2*/
+
+    .section-2{
+        padding: 0 0;
+    }
+    .about-me{
+        padding: 2em;
+    }
+    .skills{
+        padding: 2em;
+    }
+
+    /*PROJECTS*/
+    .projects{
+        padding: 0 0;
+    }
+    .project-container Section img{
+        width: 100%;
+    }
+    .my-projects-title{
+       text-align: center;
+    }
+    
+    /*Footer*/
+    footer{
+      margin-right: 0;
+    }
+
+    .footer-container ul li{
+        margin: 0 2em;
+    }
+}
