@@ -7,6 +7,6 @@
     .section-2{
 
         grid-template-columns: repeat(1,1fr);
-        padding: 2em;
+        padding: 3px;
     }
 }
