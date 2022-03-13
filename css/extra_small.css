@@ -9,7 +9,7 @@
         grid-template-columns: repeat(1,0.8fr);
         
     }
-    .email{
+    .email a{
       width: 6em;
     }
 }
