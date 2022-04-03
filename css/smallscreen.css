@@ -1,6 +1,11 @@
 @media screen and (max-width: 600px){
+    .Main-container{
+        margin: 4em 1em;
+        padding-bottom: 4em;
+      }
    
-    /*Section 1*/
+   
+   /*Section 1*/
 
     .section-1{
         row-gap: 2em;
