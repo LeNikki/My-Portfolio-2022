@@ -37,6 +37,13 @@ body{
     color:#9900F8;
 }
 
+/*form
+width="60%" height="720px"*/
+.form{
+    width:96vw;
+    height:95vh;
+}
+
 /*CONTACT PAGE*/
 .home{
     
